@@ -30,6 +30,19 @@
     "eslint-config-next": "15.3.2",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "typescript": "^5"
-  }
+    "typescript": "^5.9.3"
+  },
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarenX9134/ptp-profit-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VarenX9134/ptp-profit-calculator/issues"
+  },
+  "homepage": "https://github.com/VarenX9134/ptp-profit-calculator#readme"
 }
